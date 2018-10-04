@@ -6,6 +6,8 @@ A simple script to convert from a mysqldump file of a single table to an "import
 
 Make sure to have at least Java 1.7 on the target machine
 
+Install Leiningen https://leiningen.org/ or `brew install leiningen`
+
 ### Build the project
 
     $ lein uberjar
